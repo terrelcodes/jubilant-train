@@ -1,2 +1,3 @@
 # jubilant-train
-simple pages site
+
+Source for [lernisto.com](https://lernisto.com/) deployment.
